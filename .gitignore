@@ -1,0 +1,18 @@
+# Java / Eclipse / IntelliJ
+target/
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.log
+
+# Node / React
+node_modules/
+dist/
+.env
+.env.local
+
+# Editors / OS
+.vscode/
+.DS_Store
