@@ -50,4 +50,11 @@ npm run dev
 Open http://localhost:5173
 
 ## Screenshots
-_Add screenshots here._
+### Home
+![Home](home.png)
+
+### Quiz
+![Quiz](quiz.png)
+
+### Result and leaderboard
+![Result](result.png)
